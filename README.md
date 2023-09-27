@@ -8,4 +8,5 @@ Trong bài toán này, giá điện được định nghĩa như sau:
 •	Từ kWh 51 đến kWh 100: 1500 đồng/kWh
 •	Từ kWh 101 đến kWh 200: 2000 đồng/kWh
 •	Từ kWh 201 trở đi: 2500 đồng/kWh
-Áp dụng viết kiểm thử bảng quyết định và kiểm thử bằng phân hoạch tương đương.
+
+- Áp dụng viết kiểm thử bảng quyết định và kiểm thử bằng phân hoạch tương đương.
