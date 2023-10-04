@@ -8,4 +8,3 @@ Bài toán tính tiền điện, trong đó có những quy định sau:
 -	Từ kWh 101 đến kWh 200: 2000 đồng/kWh
 -	Từ kWh 201 trở đi: 2500 đồng/kWh
 
- # Áp dụng viết kiểm thử bảng quyết định và kiểm thử bằng phân hoạch tương đương.
